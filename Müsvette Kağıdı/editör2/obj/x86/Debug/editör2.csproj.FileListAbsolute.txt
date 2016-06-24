@@ -1,0 +1,27 @@
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\bin\Debug\editör2.exe
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\bin\Debug\editör2.pdb
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\obj\x86\Debug\editör2.Form1.resources
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\obj\x86\Debug\editör2.Properties.Resources.resources
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\obj\x86\Debug\editör2.exe
+c:\users\karsıyaka\documents\visual studio 2010\Projects\editör2\editör2\obj\x86\Debug\editör2.pdb
+F:\editör2\editör2\obj\x86\Debug\editör2.exe
+F:\editör2\editör2\obj\x86\Debug\editör2.pdb
+F:\editör2\editör2\bin\Debug\editör2.exe
+F:\editör2\editör2\bin\Debug\editör2.pdb
+F:\editör2\editör2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\editör2\editör2\obj\x86\Debug\editör2.Form1.resources
+F:\editör2\editör2\obj\x86\Debug\editör2.Properties.Resources.resources
+F:\editör2\editör2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\editör2\editör2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\editör2.exe
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\editör2.pdb
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Müsvette Kağıdı\editör2\bin\Debug\editör2.exe
+I:\Müsvette Kağıdı\editör2\bin\Debug\editör2.pdb
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\müsvettekağıdı.Form1.resources
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\müsvettekağıdı.Properties.Resources.resources

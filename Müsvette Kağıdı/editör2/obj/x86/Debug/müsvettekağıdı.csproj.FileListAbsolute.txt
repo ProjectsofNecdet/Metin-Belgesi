@@ -1,0 +1,6 @@
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\editör2.Form1.resources
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\editör2.Properties.Resources.resources
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Müsvette Kağıdı\editör2\obj\x86\Debug\editör2.exe
